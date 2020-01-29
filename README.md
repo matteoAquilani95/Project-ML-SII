@@ -1,2 +1,2 @@
 # AmazonReview
-ML project to predict usefulness of Amazon reviews
+ML & SII project to predict usefulness of Amazon reviews
