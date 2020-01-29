@@ -1,2 +1,2 @@
-# Project-ML-SII
-Project for course of Machine Learning and Smart systems for the internet 
+# AmazonReview
+ML project to predict usefulness of Amazon reviews
